@@ -1,4 +1,4 @@
-### Question_papers_IIITH
+### "IIIT Hyderabad Previous Year Question Papers"
 Hi, i am Saloni Goyal. A student of 2k23-24 batch CHD branch.
 
 Tried to collect Question_papers of the subjects i had, mostly the human sciences subjects, although a few other subject papers are there as well.
